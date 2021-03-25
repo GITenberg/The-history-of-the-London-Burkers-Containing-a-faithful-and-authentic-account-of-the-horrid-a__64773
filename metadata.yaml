@@ -1,5 +1,8 @@
 _repo: The-history-of-the-London-Burkers-Containing-a-faithful-and-authentic-account-of-the-horrid-a__64773
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64773-h/images/cover.jpg
 creator:
   author:
     agent_name: Anonymous
@@ -10,6 +13,8 @@ creator:
     - https://en.wikipedia.org/wiki/Anonymous_work
     - http://www.gutenberg.org/ebooks/author/49
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64773#The-history-of-the-London-Burkers-Containing-a-faithful-and-authentic-account-of-the-horrid-a_
 gutenberg_issued: '2021-03-10'
 gutenberg_type: Text
 identifiers:
